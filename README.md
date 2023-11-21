@@ -1,6 +1,6 @@
 **About me** 👋
 
-Hi, my name is Łukasz and i am Experienced Software Tester in software development processes and optimal testing strategies. I have Helped teams produce exceptional products by offering in-depth quality assurance support. This is my gitHub and i am uploading here my Work that i have created using Python. 🚀 I would like to share my knowledge of QA and showcase my practical skills that I have gained through job as QA and also in courses and self-study. I am determined to continue to grow in this field. I have also recently started learning different programming languages: C++ and JAVA, so at the moment my main focus is on furthering my knowledge in programming area 🔨 You can check out my projects written in Selenium framework that i have uploaded to selenium_project directory 😊
+Hi, my name is Łukasz and i am Experienced Software Tester in software development processes and optimal testing strategies. I have Helped teams produce exceptional products by offering in-depth quality assurance support. This is my gitHub and i am uploading here my Work that i have created using Python. 🚀 I would like to share my knowledge of QA and showcase my practical skills that I have gained through job as QA and also in courses and self-study. I am determined to continue to grow in this field. I have also recently started learning different programming languages: C++ and JAVA, so at the moment my main focus is on furthering my knowledge in programming area 🔨 You can get familiar with my experience and skills down below. Thank you for reading!😊
 My Linkedin profile
 
 **My experience** 🏢
@@ -40,7 +40,7 @@ Software Test Engineer at Nokia:
 * Creating test cases
 * Reporting bugs
 * Creating bug reports
-* Intermediate Python - for test automation
+* Intermediate Python - for test automation + https://github.com/ljagielskiszczypik/Selenium.git
 * Basic HTML and CSS
 * Basic C++ and JAVA
 
