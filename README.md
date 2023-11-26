@@ -1,7 +1,14 @@
 **About me** 👋
 
 Hi, my name is Łukasz and i am Experienced Software Tester in software development processes and optimal testing strategies. I have Helped teams produce exceptional products by offering in-depth quality assurance support. This is my gitHub and i am uploading here my Work that i have created using Python. 🚀 I would like to share my knowledge of QA and showcase my practical skills that I have gained through job as QA and also in courses and self-study. I am determined to continue to grow in this field. I have also recently started learning different programming languages: C++ and JAVA, so at the moment my main focus is on furthering my knowledge in programming area 🔨 You can get familiar with my experience and skills down below. Thank you for reading!😊
-My Linkedin profile
+
+**Projects** 🔨
+
+**REST API written in Python using Flask framework:**  
+* https://github.com/ljagielskiszczypik/flask-api
+
+**Automated tests written in Python with Selenium framework:** 
+* https://github.com/ljagielskiszczypik/Selenium
 
 **My experience** 🏢
 
@@ -32,7 +39,7 @@ Software Test Engineer at Nokia:
 
 **Tech skills** 💻
 
-* SQL
+* SQL (basic level)
 * Rest API testing
 * ISTQB Foundation Level knowledge
 * Basic knowledge about software development models (waterfall, v model, iterative and incremental model, agile)
@@ -40,9 +47,9 @@ Software Test Engineer at Nokia:
 * Creating test cases
 * Reporting bugs
 * Creating bug reports
-* Intermediate Python - for test automation + https://github.com/ljagielskiszczypik/Selenium.git
+* Python (intermediate level)
 * Basic HTML and CSS
-* Basic C++ and JAVA
+* C++ and JAVA (basic level)
 
 **Soft skills** 📁
 
