@@ -4,6 +4,9 @@ Hi, my name is Łukasz and i am Experienced Software Tester in software developm
 
 **Projects** 🔨
 
+**Automated tests written in Java with Selenium framework:**
+* https://github.com/ljagielskiszczypik/Selenium-Java/tree/master
+
 **REST API written in Python using Flask framework:**  
 * https://github.com/ljagielskiszczypik/flask-api
 
